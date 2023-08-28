@@ -1,3 +1,6 @@
+
+Run Game.java to play! Path: AliceJava/org/src/Game.java
+
 =:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
 Project README
 =:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
