@@ -1,5 +1,3 @@
-package org.cis1200;
-
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

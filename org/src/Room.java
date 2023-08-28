@@ -1,5 +1,3 @@
-package org.cis1200;
-
 import javax.swing.*;
 
 public class Room extends JPanel {
